@@ -25,7 +25,5 @@ try:
             writer = csv.writer(f)
             writer.writerow([timestamp, cpu, ram, disk])
         time.sleep(5)
-
-
 except KeyboardInterrupt:
     print("Stopped")
