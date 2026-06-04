@@ -17,6 +17,3 @@ python logger.py
 - Python 3.10+
 - psutil
 
-## What I learned
-- **Working with libraries:** using `psutil` to read live system stats
-- **File I/O:** writing structured data to a CSV file
